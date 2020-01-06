@@ -1,0 +1,86 @@
+{
+    "Profiles": [{
+        "name": "Gabriel Seri",
+        "job": "UI/UX Designer & Full Stack Developer",
+        "email": "serignolebagabriel@gmail.com",
+        "address": "Lagos, Nigeria",
+        "about": "I am a UI/UX Designer and Full Stack Web Developer, I got into UI/UX Design since 2014 and I began designing experiences for companies. I got into web development in 2016 and started with PHP/Laravel, but I have since migrated to Javascript frameworks. Currently, I design products with Figma & Adobe XD, and develop with MERN Stack with the optional addition of Next.js and Vue.js",
+        "imagesrc": "https://res.cloudinary.com/sgnolebagabriel/image/upload/e_cartoonify/v1578172047/background_image_wlw7hv.svg",
+        "socials": [{
+            "twitter": "http://twitter.com/devpapii",
+            "github": "http://github.com/serignoleba",
+            "dribbble": "https://dribbble.com/SeriGabriel",
+            "linkedin": "http://linkedin.com/in/gabriel-seri-70611968/",
+            "twitterfa": "fab fa-twitter",
+            "githubfa": "fab fa-github",
+            "dribbblefa": "fab fa-dribbble",
+            "linkedinfa": "fab fa-linkedin"
+        }]
+    }],
+    "Educations": [{
+            "school": "Babcock University",
+            "degree": "BSC. Computer Science"
+        },
+        {
+            "school": "Tendertouch College",
+            "degree": "SSCE"
+        }
+
+    ],
+    "Works": [{
+            "company": "Serenity S.A",
+            "job": "UI/UX Design and Full-Stack Development",
+            "duration": "June 2019",
+            "description": "In charge of converting the companys Insurance Calculating and Issuance desktop app to a fully functional MERN web application."
+        },
+        {
+            "company": "MTN",
+            "job": "Frontend Development",
+            "duration": "May 2018 - December 2018",
+            "description": "I was on the front-end web developer team. Our job covered the conversion of the website to React.js and also to code in new components using React.js."
+        }
+    ],
+    "Skills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React.js",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "PHP - Laravel",
+        "MySQL",
+        "UI/UX Design"
+    ],
+    "Tools": [
+        "Figma",
+        "Adobe XD",
+        "Adobe Illustrator",
+        "Sketch"
+    ],
+    "Developments": [{
+        "workName": "gabrielseri.me",
+        "imageSrc": "https://res.cloudinary.com/sgnolebagabriel/image/upload/v1578252436/Works/Screen_Shot_2020-01-05_at_7.26.47_PM_ms7mk2.png",
+        "description": "A React based portfolio website",
+        "gitUrl": "",
+        "workUrl": "http://devpapi.000webhostapp.com/",
+        "tools": "REACT, REACT-JSX, VANILLA JS, BOOTSTRAP 4, HTML, CSS"
+    }, {
+        "workName": "Fintrack",
+        "imageSrc": "https://res.cloudinary.com/sgnolebagabriel/image/upload/v1578235681/Works/fintrack_jl6cb7.png",
+        "description": "A finance tracker app built with PHP Laravel as the base framework and Bootstrap 4 as CSS Framework",
+        "gitUrl": "",
+        "workUrl": "http://devpapi.000webhostapp.com/",
+        "tools": "PHP, LARAVEL, VANILLA JS, BOOTSTRAP 4, HTML, CSS",
+        "repoLink": "http://github.com/serignoleba"
+    }],
+
+    "Designs": [{
+        "workName": "homely",
+        "imageSrc": "https://res.cloudinary.com/sgnolebagabriel/image/upload/v1578237832/Works/Screen_Shot_2019-12-16_at_12.06.50_PM_gpepl8.png",
+        "description": "A home-sharing platform where you list your home to get a flatmate who will pay a certain monthly fee to share your home",
+        "Url": "https://www.figma.com/file/fpteyGKx2CBvaCui6XaQ6n/Test?node-id=4%3A3",
+        "tools": "FIGMA, ADOBE ILLUSTRATOR, ADOBE PHOTOSHOP",
+        "repoLink": "https://dribbble.com/SeriGabriel"
+    }]
+}
